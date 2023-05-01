@@ -10,11 +10,11 @@
 
 ### How to install in Linux Void
 
-wget https://github.com/johna23-lab/zeit-for-linux-void/releases/download/de6b5c2_1/zeit-de6b5c2_1.x86_64.xbps
+wget https://github.com/johna23-lab/zeit-for-linux-void/releases/download/de6b5c2_1/zeit-de6b5c2_3.x86_64.xbps
 
-xbps-rindex -a zeit-de6b5c2_1.x86_64.xbps
+xbps-rindex -a zeit-de6b5c2_3.x86_64.xbps
 
-sudo xbps-install -R $PWD zeit-de6b5c2_1
+sudo xbps-install -R $PWD zeit-de6b5c2_3
 
 
 ### Build dependencies ### (For debian)
